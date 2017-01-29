@@ -16,6 +16,10 @@
 
     Website: [https://hjson.org/](https://hjson.org/)
 
++ ### HOCON (Human-Optimized Config Object Notation)
+
+    Description: [https://github.com/typesafehub/config/blob/master/HOCON.md](https://github.com/typesafehub/config/blob/master/HOCON.md)
+
 ## Transpiles to JSON
 
 + ### Markdown Syntax for Object Notation (MSON)
