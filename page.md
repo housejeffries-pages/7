@@ -10,7 +10,9 @@
 
     Description: [http://wiki.laptop.org/go/Canonical_JSON](http://wiki.laptop.org/go/Canonical_JSON)
 
-    Notes: not actually a subset of JSON. It allows any byte except ASCII `"` or `\` as a member of a string, but JSON [only allows](https://tools.ietf.org/html/rfc7159#section-7) `%x20-21 / %x23-5B / %x5D-10FFFF`.
+    Notes: not actually a subset of JSON. Canonical JSON is specified in bytes while JSON is specified in code points. Canonical JSON allows any possible byte to appear as the member of a string (with some escaping rules around ASCII `"` and ASCII `\`).
+
+    JSON forbids code points below %x20 and above %x10FFFF, which means that %x19 is valid Canonical JSON but invalid JSON. The only exception would be if you interpreted it as JSON in some form of exotic encoding where the byte %x19 maps to a valid code point (ruling out UTF-16, UTF-32, etc.) but doesn't map to the code point %x19 (ruling out ASCII and UTF-8). This seems farfetched.
 
 ## Supersets of JSON
 
