@@ -6,6 +6,10 @@
 
     Disclaimer: my project.
 
++ ### JSON Canonical Form
+
+    IETF draft: [draft-staykov-hu-json-canonical-form-00](https://tools.ietf.org/html/draft-staykov-hu-json-canonical-form-00)
+
 + ### Canonical JSON (One Laptop Per Child)
 
     Description: [http://wiki.laptop.org/go/Canonical_JSON](http://wiki.laptop.org/go/Canonical_JSON)
