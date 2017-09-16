@@ -41,3 +41,9 @@
 + ### HOCON (Human-Optimized Config Object Notation)
 
     Description: [https://github.com/typesafehub/config/blob/master/HOCON.md](https://github.com/typesafehub/config/blob/master/HOCON.md)
+
++ ### Jsonnet
+
+    Website: [http://jsonnet.org/](http://jsonnet.org/)
+
+    Spec: [http://jsonnet.org/language/spec.html](http://jsonnet.org/language/spec.html)
