@@ -24,9 +24,13 @@
 
 ## Supersets of JSON
 
-+ ### JSON5
++ ### YAML
 
-    Extension: `json5`
+    Spec: [1.2](http://yaml.org/spec/1.2/spec.html)
+
+    Note: Claims to be a superset of JSON [here](http://yaml.org/spec/1.2/spec.html#id2759572). Stack Overflow discuesses whether this is actually the case [here](https://stackoverflow.com/a/26220257/1132816) (see the comments on the answer as well).
+
++ ### JSON5
 
     Website: [http://json5.org/](http://json5.org/)
 
@@ -37,9 +41,3 @@
 + ### HOCON (Human-Optimized Config Object Notation)
 
     Description: [https://github.com/typesafehub/config/blob/master/HOCON.md](https://github.com/typesafehub/config/blob/master/HOCON.md)
-
-## Transpiles to JSON
-
-+ ### Markdown Syntax for Object Notation (MSON)
-
-    GitHub: [https://github.com/apiaryio/mson](https://github.com/apiaryio/mson)
