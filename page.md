@@ -6,6 +6,12 @@
 
     Disclaimer: my project.
 
++ ### Matrix.org Canonical JSON
+
+    Spec: [Matrix.org appendices section 3.1](https://matrix.org/docs/spec/appendices.html#canonical-json)
+
+    Note: This is a good spec.
+
 + ### JSON Canonical Form
 
     IETF draft: [draft-staykov-hu-json-canonical-form-00](https://tools.ietf.org/html/draft-staykov-hu-json-canonical-form-00)
