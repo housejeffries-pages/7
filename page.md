@@ -22,6 +22,15 @@
 
     IETF: [rfc7493](https://tools.ietf.org/html/rfc7493)
 
+## JSON
+
+
++ ### Itself
+
+    Spec: [RFC 7159](https://tools.ietf.org/html/rfc7159)
+
+    Note: There's also [ECMA 404](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf). A nice, short history of JSON specs is [here](https://www.tbray.org/ongoing/When/201x/2014/03/05/RFC7159-JSON).
+
 ## Supersets of JSON
 
 + ### YAML
