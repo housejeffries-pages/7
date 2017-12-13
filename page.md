@@ -18,7 +18,7 @@
 
     Note: the mapping from JSON Canonical Form to bytes is ambiguous. It doesn't specify which characters should be escaped or which escape sequences to use.
 
-+ ### Canonical JSON (One Laptop Per Child)
++ ### OLPC Canonical JSON (One Laptop Per Child)
 
     Description: [http://wiki.laptop.org/go/Canonical_JSON](http://wiki.laptop.org/go/Canonical_JSON)
 
